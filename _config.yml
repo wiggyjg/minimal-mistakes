@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Stuff n Things"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jon Goundry"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jon Goundry"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Really hard sums"
   location         : "Somewhere"
   email            :
   links:
